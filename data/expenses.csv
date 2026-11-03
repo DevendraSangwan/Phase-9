@@ -1,0 +1,13 @@
+id,title,amount,category,date,notes
+1,Lunch,250.0,Food,2026-09-20,Office lunch
+2,Metro,80.0,Travel,2026-09-20,Morning commute
+3,Groceries,1250.0,Shopping,2026-09-22,Weekly groceries
+4,Coffee,120.0,Food,2026-09-25,Cafe
+5,Electricity bill,1850.0,Bills,2026-09-28,Monthly electricity
+6,Taxi,340.0,Travel,2026-10-02,Ride home
+7,Dinner,620.0,Food,2026-10-05,Family dinner
+8,Notebook,180.0,Shopping,2026-10-10,Work supplies
+9,Internet bill,999.0,Bills,2026-10-15,Monthly internet
+10,Movie tickets,500.0,Entertainment,2026-10-20,Weekend movie
+11,Bus pass,750.0,Travel,2026-11-01,Monthly pass
+12,Breakfast,160.0,Food,2026-11-03,Local cafe
